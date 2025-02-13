@@ -1,16 +1,21 @@
 {
-    "name": "squiglymk2",
+    "name": "squigly",
     "description": "the description",
-    "authors": [
-        {
-            "name": "your name",
-            "id": "853077695977488417"
-        }
+	"authors": [
+      {
+         "name": "darknight48996",
+         "id": "853077695977488417"
+      }
     ],
-
     "background": {
-        "blur":0.1,
         "url": "https://images-ext-1.discordapp.net/external/WHBQbFG8bgejUCExtmT-fpR2zH_yZh41Xa5vn6har0Q/https/cdn.donmai.us/original/97/97/__squigly_and_leviathan_skullgirls_drawn_by_770mk__9797073f0d4c7571cab42c4981a8f9f6.png?format=webp&quality=lossless&width=607&height=565",
-        "alpha":0.82 
-    }
-}
+	"alpha": 0.1
+    },
+    "plus": {
+        "version": 0,
+        "customOverlays": false,
+        "icons": {
+        },
+    },
+    "spec": 2
+            }
